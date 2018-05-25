@@ -1,0 +1,222 @@
+PATH=/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/toolchain/msdk-4.4.7-mips-EL-3.10-u0.9.33-m32t-140827/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/bin; msdk-linux-lstrip /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs
+
+Realtek Semiconductor Corp.
+Shared Library Shrinker, v1.1
+Tony Wu (tonywu@realtek.com)
+
+MSDK version: 4.4.7 Build 2001) 
+INFO: shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/watchdog
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/busybox
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fw_printenv
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntp_inet
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/brctl
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/timelycheck
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/tc
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/l2tpd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pppd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fwd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ddns_inet
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_pcap
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iwcontrol
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/dnrd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pptp
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openvpn
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/updatedd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/flash
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntpclient
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/udhcpd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_iwpriv
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/igmpproxy
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/routed
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/miniigd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openssl
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iptables
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/acltd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/main_lc5761
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iapp
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ppp_inet
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/sysconf
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/mojo_tool
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd_cli
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/reload
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/lld2d
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/boa
+INFO: listing romfs shared libraries
+INFO: MSDK -> /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/toolchain/msdk-4.4.7-mips-EL-3.10-u0.9.33-m32t-140827
+INFO: checking romfs endian ... little endian
+INFO: checking libgcc ... shared
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/watchdog
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/busybox
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fw_printenv
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntp_inet
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/brctl
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/timelycheck
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/tc
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/l2tpd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pppd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fwd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ddns_inet
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_pcap
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iwcontrol
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/dnrd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pptp
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openvpn
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/updatedd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/flash
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntpclient
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/udhcpd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_iwpriv
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/igmpproxy
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/routed
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/miniigd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openssl
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iptables
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/acltd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/main_lc5761
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iapp
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ppp_inet
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/sysconf
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/mojo_tool
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd_cli
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/reload
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/lld2d
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/boa
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libgcc_s.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libdl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libresolv-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnsl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/librt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libm-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libapmib.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libmtdapi.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/ld-uClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypto.so.0.9.8
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libssl.so.0.9.8
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libgcc_s.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libdl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libresolv-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnsl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/librt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libm-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libapmib.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libmtdapi.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/ld-uClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypto.so.0.9.8
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libssl.so.0.9.8
+INFO: remove unused shared libraries
+----> removing /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libubacktrace-0.9.33.so
+----> removing /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libthread_db-0.9.33.so
+----> removing /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libstdc++.so.6.0.13
+----> removing /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuargp-0.9.33.so
+INFO: cleanup shared library links
+----> removing linker file /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libc.so
+----> removing linker file /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread.so
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libstdc++.so
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libstdc++.so.6
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libthread_db.so
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libthread_db.so.1
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuargp.so
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuargp.so.0
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libubacktrace.so
+----> removing dangling link /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libubacktrace.so.0
+INFO: shrinking shared libraries ...
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libgcc_s.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libgcc_s.so.1
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libdl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libdl-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/ld-uClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/ld-uClibc-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuClibc-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuClibc-0.9.33.so
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/toolchain/msdk-4.4.7-mips-EL-3.10-u0.9.33-m32t-140827/bin/../lib/gcc/mips-linux-uclibc/4.4.7/../../../../mips-linux-uclibc/bin/ld: warning: gethostbyaddr is obsolescent, use getaddrinfo() instead.
+/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/toolchain/msdk-4.4.7-mips-EL-3.10-u0.9.33-m32t-140827/bin/../lib/gcc/mips-linux-uclibc/4.4.7/../../../../mips-linux-uclibc/bin/ld: warning: gethostbyname is obsolescent, use getnameinfo() instead.
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libssl.so.0.9.8
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libssl.so.0.9.8
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypto.so.0.9.8
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypto.so.0.9.8
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libmtdapi.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libmtdapi.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypt-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libapmib.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libapmib.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libm-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libm-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/librt-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/librt-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnsl-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnsl-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libresolv-0.9.33.so
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libresolv-0.9.33.so
+----> shrinking /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1
+msdk-linux-readelf/home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1
+INFO: stripping executables and libraries
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libuClibc-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libssl.so.0.9.8
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/librt-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libresolv-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libpthread-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnsl-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1.1.4
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so.1
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libnl.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libmtdapi.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libm-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libgcc_s.so.1
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libdl-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypto.so.0.9.8
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libcrypt-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/libapmib.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/lib/ld-uClibc-0.9.33.so
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/watchdog
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/busybox
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fw_printenv
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntp_inet
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/brctl
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/timelycheck
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/tc
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/l2tpd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pppd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/fwd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ddns_inet
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_pcap
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iwcontrol
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/dnrd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/pptp
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openvpn
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/updatedd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/flash
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ntpclient
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/udhcpd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/rtk_iwpriv
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/igmpproxy
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/routed
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/miniigd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/openssl
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iptables
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/acltd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/main_lc5761
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/iapp
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/ppp_inet
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/sysconf
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/mojo_tool
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/hostapd_cli
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/reload
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/lld2d
+----> sstripping /home/teddy/liteon_sdk_3411cm_20170527/rtl819x/target/romfs/bin/boa
+INFO: romfs stripping completed
+INFO: romfs size reduced from 16960 to 11300
